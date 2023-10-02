@@ -1,3 +1,8 @@
+# Dashboard: Ad-Campaign Analysis Dashboard
+
+![Dashboard](Dashboard/dashboard_v2.png)
+
+
 **Problem Statement:**
 An advertising agency is running a digital advertising campaign for a client. The campaign involves displaying ads on various online platforms. To evaluate the campaign's effectiveness and make data-driven decisions, the agency needs to analyze a dataset containing information about the campaign's performance, ad placements, and user interactions.
 
@@ -199,7 +204,7 @@ The dataset required for this project should include the following tables:
 
    **Output:**
 
-      ![campaign_duration_out](/images/7.102_campaign_duration.png)
+      ![campaign_duration_out](images/7.102_campaign_duration.png)
 
    - Analyse duration by interaction_type for each campaign.
 
