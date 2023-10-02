@@ -1,4 +1,4 @@
-# Dashboard: Ad-Campaign Analysis Dashboard
+# Dashboard: Ad-Campaign Analysis
 
 ![Dashboard](Dashboard/dashboard_v2.png)
 
