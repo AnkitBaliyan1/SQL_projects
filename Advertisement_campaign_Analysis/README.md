@@ -33,9 +33,11 @@ The dataset required for this project should include the following tables:
    - What is the total budget allocated for each campaign? 1.101/2
          
          SQL Query:
+            
             ![budget_allocated](images/1.101_total_Budget_allocated.png) 
          
          Output: 
+            
             ![1.102_total_budget_allocated](images/1.102_total_budget_allocated.png)
 
    - How many campaigns are currently active? 1.201/2
