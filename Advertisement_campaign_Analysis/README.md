@@ -32,7 +32,7 @@ The dataset required for this project should include the following tables:
 1. **Campaign Analysis:**
    - What is the total budget allocated for each campaign? 1.101/2
 
-![budget_allocated](/Schema_Model_view.jpeg)
+![budget_allocated](Schema_Model_view.jpeg)
 
 ![budget_allocated](images/1.101_total_Budget_allocated.png)
 
