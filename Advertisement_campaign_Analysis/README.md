@@ -31,8 +31,8 @@ The dataset required for this project should include the following tables:
 
 1. **Campaign Analysis:**
    - What is the total budget allocated for each campaign? 1.101/2
-   ![budget_allocated](/mySQL%20queries/images/1.101_total_Budget_allocated.png)
-   ![budget_allocated](/mySQL%20queries/images/1.102_total_Budget_allocated.png)
+![budget_allocated](/mySQL%20queries/images/1.101_total_Budget_allocated.png)
+![budget_allocated](/mySQL%20queries/images/1.102_total_Budget_allocated.png)
 
    - How many campaigns are currently active? 1.201/2
    - What is the average budget spent per active campaign? 1.301/2
