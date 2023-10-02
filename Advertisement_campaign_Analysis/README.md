@@ -33,6 +33,7 @@ The dataset required for this project should include the following tables:
    - What is the total budget allocated for each campaign? 1.101/2
 
 ![budget_allocated](/images/1.101_total_Budget_allocated.png)
+
 ![budget_allocated](/images/1.102_total_budget_allocated.png)
 
    - How many campaigns are currently active? 1.201/2
@@ -52,20 +53,21 @@ The dataset required for this project should include the following tables:
    - How does the actual spend compare to the budget for each campaign? 4.201/1
 
 5. **Time-based Analysis:**
-   - How do user interactions vary by day and time of day?  5.101/2
-   - Is there a specific day of the week or time period that sees the highest user engagement? 5.201/2
+   - How do user interactions vary by day and time of day?  5.101/2 and 5.201/2
+   - Is there a specific day of the week or time period that sees the highest user engagement? 5.301/2
    
 6. **Ad Engagement Analysis:**
-   - What is the average number of interactions (clicks and views) per ad placement?
-   - Which ad placement had the highest total interactions?
+   - What is the average number of interactions (clicks and views) per ad placement? 6.101/2
+   - Which ad placement had the highest total interactions? 6.201/2
 
 7. **Campaign Duration Analysis:**
    - How long did each campaign run in terms of days?
-   - Did longer campaigns result in better performance?
+   - Analyse duration by interaction_type for each campaign.
 
 8. **Budget Allocation Analysis:**
    - How much of the budget is remaining for each active campaign?
-   - Is there a correlation between budget allocation and campaign performance?
+
+   
 
 By answering these questions using SQL queries on the provided dataset, the advertising agency can gain valuable insights into the performance of the campaign, optimize budget allocation, and make data-driven decisions to improve ROI.
 
