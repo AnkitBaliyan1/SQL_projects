@@ -34,7 +34,7 @@ The dataset required for this project should include the following tables:
 
 ![budget_allocated](/Schema_Model_view.jpeg)
 
-![budget_allocated](/images/1.101_total_Budget_allocated.png)
+![budget_allocated](images/1.101_total_Budget_allocated.png)
 
 ![1.102_total_budget_allocated](/images/1.102_total_budget_allocated.png)
 
