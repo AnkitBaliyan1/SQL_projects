@@ -10,8 +10,6 @@ An advertising agency is running a digital advertising campaign for a client. Th
 
 The dataset required for this project should include the following tables:
 
-![database_schema](Schema_Model_view.jpeg)
-
 1. **Campaign Data:**
    - `campaign_id` (unique identifier for each campaign)
    - `campaign_name` (name of the advertising campaign)
@@ -31,6 +29,9 @@ The dataset required for this project should include the following tables:
    - `user_id` (unique identifier for each user)
    - `interaction_type` (e.g., click, view, conversion)
    - `interaction_date` (date and time when the interaction occurred)
+
+
+![database_schema](Schema_Model_view.jpeg)
 
 **Questions to Answer using SQL:**
 
