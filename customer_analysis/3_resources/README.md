@@ -1,5 +1,5 @@
 
-**Cast Function**
+## Cast Function
 
 In SQL, the CAST function is used to convert data from one data type to another. It is particularly useful when you want to convert data from one type to another, such as from string to integer, or from string to date, etc. The basic syntax for using the CAST function is:
 
@@ -29,7 +29,7 @@ Make sure that the conversion is feasible. For example, you can convert a string
 
 
 
-**Using IF Statements in SQL**
+## Using IF Statements in SQL
 
 
 In SQL, the `IF` statement and the `CASE` expression serve similar purposes in handling conditional logic, but they differ in their structure and usage.
@@ -66,7 +66,7 @@ In general, if you are working with a simple SQL query and need to handle condit
 
 
 
-**Using DATE_FORMAT in SQL**
+## Using DATE_FORMAT in SQL
 
 In SQL, the `DATE_FORMAT` function is used to format dates as specified by the format string. It allows you to display date and time values in different formats. This is especially useful when you want to customize the way dates are displayed in your result set.
 
@@ -89,7 +89,7 @@ Remember that the syntax and available format specifiers may vary slightly depen
 
 
 
-**Using TIMESTAMPDIFF in SQL**
+## Using TIMESTAMPDIFF in SQL
 
 The `TIMESTAMPDIFF` function in SQL is used to find the difference between two date or datetime expressions. It returns the difference in a specified unit, such as seconds, minutes, hours, days, months, or years.
 
@@ -114,7 +114,7 @@ This function is particularly useful when you need to measure the time differenc
 
 
 
-**Using CONCAT in SQL**
+## Using CONCAT in SQL
 
 In SQL, the CONCAT function is used to concatenate two or more strings into a single string. It is particularly useful when you need to combine multiple fields or values into one. The CONCAT function varies slightly depending on the specific SQL implementation. Here's an explanation with an example:
 
@@ -142,7 +142,7 @@ Both of these queries will produce the same output, combining the 'FirstName' an
 
 
 
-**Using Common Table Expressions (CTE) in SQL**
+## Using Common Table Expressions (CTE) in SQL
 
 In SQL, Common Table Expressions (CTEs) provide a way to create temporary result sets that can be referenced within a SELECT, INSERT, UPDATE, or DELETE statement. CTEs can make complex queries more readable and maintainable. Below is an example with an explanation of each step:
 
@@ -179,7 +179,7 @@ By using CTEs, you can simplify complex queries, improve query readability, and 
 
 
 
-**Using FIRST_VALUE, LAST_VALUE, and NTH_VALUE in SQL**
+## Using FIRST_VALUE, LAST_VALUE, and NTH_VALUE in SQL
 
 In SQL, the functions FIRST_VALUE, LAST_VALUE, and NTH_VALUE are analytical functions that can be used to compute values based on a specified order within a partition of rows. Here's an example that explains all three functions within the same table:
 
@@ -211,7 +211,7 @@ These analytical functions are beneficial for performing calculations based on s
 
 
 
-**Window Functions in SQL**
+## Window Functions in SQL
 
 Window functions are a group of functions that perform calculations across a set of table rows that are related to the current row. They are particularly useful for performing complex analytical tasks without having to use complex self-joins. Here is an explanation of window functions with a list of commonly used ones, along with examples:
 
@@ -293,7 +293,7 @@ These window functions provide powerful analytical capabilities within a SQL que
 
 
 
-**Frame concept in SQL**
+## Frame concept in SQL
 
 In SQL, the `RANGE` clause within window functions is used to define the window frame in terms of logical units such as time, distance, or other ordered quantities. This differs from the `ROWS` clause, which defines the window frame based on a physical number of rows before and after the current row.
 
