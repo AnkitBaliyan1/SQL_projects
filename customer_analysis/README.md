@@ -6,7 +6,7 @@
 
 DataSource: https://www.mysqltutorial.org/mysql-sample-database.aspx
 
-**Problem Statement:**
+## Problem Statement:
 
 ABC Company, a global retailer, wants to improve its customer experience, optimize sales, and enhance overall business performance. To achieve this, they have decided to leverage their existing database with tables such as `products`, `productlines`, `orderdetails`, `orders`, `customers`, `payments`, `employees`, and `offices`.
 
