@@ -1,6 +1,5 @@
-# SQL_projects : 
+# SQL_projects : Customer Analysis and Sales Performance Improvement
 
-# Project Title:** Customer Analysis and Sales Performance Improvement
 
 ![Customer_Analysis_&_Sales_Performance_Analyys](0_plan/database%20diagram.png)
 
