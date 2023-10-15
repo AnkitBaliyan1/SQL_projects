@@ -30,3 +30,4 @@ select least_selling as product,
     group by least_selling)
     
 select * from top_selling_country_count; -- Main Query / change to worst_selling_country_count to get num of coutnries product is top selling and worst selling
+
