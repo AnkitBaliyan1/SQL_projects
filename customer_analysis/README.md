@@ -2,8 +2,7 @@
 
 
 ![Customer_Analysis_&_Sales_Performance_Analyys](0_plan/database%20diagram.png)
-![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
-![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
+
 
 DataSource: https://www.mysqltutorial.org/mysql-sample-database.aspx
 
@@ -69,6 +68,10 @@ Calculate the average time between orders for each customer to assess purchasing
 ## Observations and Outcomes
 
 Here are the key observations made from the analysis of the Power BI dashboard:
+
+![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
+
+![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
 
 1. **Dominance of the USA:** The United States accounts for approximately half of the total orders and contributes to over 50% of the overall revenue, indicating its significant role in the company's sales.
 
