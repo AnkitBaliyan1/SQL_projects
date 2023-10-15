@@ -2,6 +2,8 @@
 
 
 ![Customer_Analysis_&_Sales_Performance_Analyys](0_plan/database%20diagram.png)
+![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
+![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
 
 DataSource: https://www.mysqltutorial.org/mysql-sample-database.aspx
 
@@ -62,6 +64,27 @@ Determine the top-selling product in each country to understand customer prefere
 
 **15. Average Time Between Orders**
 Calculate the average time between orders for each customer to assess purchasing frequency and behavior.
+
+
+## Observations and Outcomes
+
+Here are the key observations made from the analysis of the Power BI dashboard:
+
+1. **Dominance of the USA:** The United States accounts for approximately half of the total orders and contributes to over 50% of the overall revenue, indicating its significant role in the company's sales.
+
+2. **Significance of Classic Cars:** Classic cars play a vital role in the company's revenue, contributing to around 40% of the total revenue, with 20% of this revenue coming solely from the USA.
+
+3. **Key Revenue-Generating Countries:** The majority, around 80%, of the total revenue is driven by just three countries: the USA, Spain, and France, emphasizing the importance of these markets for the company's profitability.
+
+4. **Contribution of Specific Products:** Two product categories, classic cars (40%) and vintage cars (20%), collectively account for 60% of the total revenue, highlighting their crucial role in the company's sales.
+
+5. **Best Performing Quarter and Month:** The fourth quarter emerges as the best performing quarter, generating 49% of the total revenue, with November alone contributing to 30% of the overall revenue, indicating a strong end-of-year performance.
+
+6. **Underperforming Product Categories:** Trains and ships are the least performing product categories, contributing to only 2% of the total revenue. Among them, the USA, Spain, and Australia are the primary contributors, signaling potential areas for improvement or strategic adjustments.
+
+7. **New Zealand's Low Revenue Impact:** Despite being among the top-performing countries, New Zealand generates relatively low-value orders, not contributing significantly to the company's overall revenue, suggesting a need for focused strategies to enhance its revenue contribution.
+
+These observations provide valuable insights into the key drivers and challenges within the business, offering actionable points for strategic decision-making and operational improvements.
 
 ## Conclusion
 
