@@ -71,7 +71,7 @@ Here are the key observations made from the analysis of the Power BI dashboard:
 
 ![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
 
-![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_1.jpeg)
+![Customer_Analysis_&_Sales_Performance_Analyys](5_dashboard/view_2.jpeg)
 
 1. **Dominance of the USA:** The United States accounts for approximately half of the total orders and contributes to over 50% of the overall revenue, indicating its significant role in the company's sales.
 
