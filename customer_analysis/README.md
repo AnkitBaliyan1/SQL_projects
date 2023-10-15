@@ -10,8 +10,6 @@ DataSource: https://www.mysqltutorial.org/mysql-sample-database.aspx
 
 ABC Company, a global retailer, wants to improve its customer experience, optimize sales, and enhance overall business performance. To achieve this, they have decided to leverage their existing database with tables such as `products`, `productlines`, `orderdetails`, `orders`, `customers`, `payments`, `employees`, and `offices`.
 
-**Project Objectives:**
-# SQL Project: Customer Analysis
 
 ## Project Overview
 
