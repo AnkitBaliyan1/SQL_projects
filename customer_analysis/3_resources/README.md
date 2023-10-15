@@ -29,7 +29,7 @@ Make sure that the conversion is feasible. For example, you can convert a string
 
 
 
-## Using IF Statements in SQL
+## Using IF / CASE-WHEN Statements in SQL
 
 
 In SQL, the `IF` statement and the `CASE` expression serve similar purposes in handling conditional logic, but they differ in their structure and usage.

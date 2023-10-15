@@ -210,7 +210,7 @@ select least_selling as product,
 	count(country) as worst_in_countries
     from country_group 
     group by least_selling)
-select * from top_selling_country_count; -- Main Query
+select * from country_group; -- Main Query
 
 
 
