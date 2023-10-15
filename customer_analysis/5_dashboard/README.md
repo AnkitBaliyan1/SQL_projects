@@ -1,8 +1,8 @@
 # SQL_projects : Customer Analysis Dashboard
 
-**View_1**
+
 ![Customer_Analysis_&_Sales_Performance_Analysis](view_1.jpeg)
-**View_2**
+
 ![Customer_Analysis_&_Sales_Performance_Analysis](view_2.jpeg)
 
 DataSource: https://www.mysqltutorial.org/mysql-sample-database.aspx
