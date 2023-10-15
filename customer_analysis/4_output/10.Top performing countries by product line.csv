@@ -1,0 +1,22 @@
+country,top_selling,second_top_selling,least_selling
+Australia,"Classic Cars","Vintage Cars",Trains
+Austria,"Classic Cars","Vintage Cars",Ships
+Belgium,"Vintage Cars",Ships,Planes
+Canada,"Classic Cars","Trucks and Buses",Motorcycles
+Denmark,"Classic Cars",Ships,Planes
+Finland,"Classic Cars",Motorcycles,Trains
+France,"Classic Cars",Motorcycles,Trains
+Germany,"Classic Cars","Vintage Cars",Ships
+"Hong Kong",Planes,"Vintage Cars",Motorcycles
+Ireland,"Classic Cars",Planes,"Vintage Cars"
+Italy,"Classic Cars",Planes,Trains
+Japan,Planes,"Classic Cars",Trains
+"New Zealand","Classic Cars","Vintage Cars",Trains
+Norway,"Classic Cars",Motorcycles,Trains
+Philippines,"Classic Cars",Planes,"Vintage Cars"
+Singapore,"Classic Cars","Trucks and Buses",Motorcycles
+Spain,"Classic Cars","Vintage Cars",Trains
+Sweden,"Classic Cars","Trucks and Buses",Trains
+Switzerland,"Classic Cars",NULL,"Classic Cars"
+UK,"Classic Cars","Vintage Cars",Trains
+USA,"Classic Cars","Vintage Cars",Trains

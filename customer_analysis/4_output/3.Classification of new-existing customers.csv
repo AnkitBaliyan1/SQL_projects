@@ -1,0 +1,327 @@
+customerNumber,custName,orderDate,firstPurchaseDate,Status
+103,"Atelier graphique",2003-05-20,2003-05-20,New
+103,"Atelier graphique",2004-09-27,2003-05-20,Existing
+103,"Atelier graphique",2004-11-25,2003-05-20,Existing
+112,"Signal Gift Stores",2003-05-21,2003-05-21,New
+112,"Signal Gift Stores",2004-08-06,2003-05-21,Existing
+112,"Signal Gift Stores",2004-11-29,2003-05-21,Existing
+114,"Australian Collectors, Co.",2003-04-29,2003-04-29,New
+114,"Australian Collectors, Co.",2003-05-21,2003-04-29,Existing
+114,"Australian Collectors, Co.",2004-02-20,2003-04-29,Existing
+114,"Australian Collectors, Co.",2004-11-24,2003-04-29,Existing
+114,"Australian Collectors, Co.",2004-11-29,2003-04-29,Existing
+119,"La Rochelle Gifts",2004-07-23,2004-07-23,New
+119,"La Rochelle Gifts",2004-10-29,2004-07-23,Existing
+119,"La Rochelle Gifts",2005-02-03,2004-07-23,Existing
+119,"La Rochelle Gifts",2005-05-31,2004-07-23,Existing
+121,"Baane Mini Imports",2003-01-29,2003-01-29,New
+121,"Baane Mini Imports",2003-10-10,2003-01-29,Existing
+121,"Baane Mini Imports",2004-10-15,2003-01-29,Existing
+121,"Baane Mini Imports",2004-11-05,2003-01-29,Existing
+124,"Mini Gifts Distributors Ltd.",2003-03-26,2003-03-26,New
+124,"Mini Gifts Distributors Ltd.",2003-07-02,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2003-08-08,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2003-11-12,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2004-03-11,2003-03-26,New
+124,"Mini Gifts Distributors Ltd.",2004-07-20,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2004-08-20,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2004-10-21,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2004-11-19,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2004-12-10,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2005-01-19,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2005-01-23,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2005-02-17,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2005-02-28,2003-03-26,Existing
+124,"Mini Gifts Distributors Ltd.",2005-03-04,2003-03-26,New
+124,"Mini Gifts Distributors Ltd.",2005-03-23,2003-03-26,New
+124,"Mini Gifts Distributors Ltd.",2005-05-29,2003-03-26,Existing
+128,"Blauer See Auto, Co.",2003-01-09,2003-01-09,New
+128,"Blauer See Auto, Co.",2004-03-15,2003-01-09,Existing
+128,"Blauer See Auto, Co.",2003-10-04,2003-01-09,Existing
+128,"Blauer See Auto, Co.",2004-11-05,2003-01-09,Existing
+129,"Mini Wheels Co.",2003-03-25,2003-03-25,New
+129,"Mini Wheels Co.",2003-12-01,2003-03-25,Existing
+129,"Mini Wheels Co.",2004-11-18,2003-03-25,Existing
+131,"Land of Toys Inc.",2003-02-24,2003-02-24,New
+131,"Land of Toys Inc.",2004-05-07,2003-02-24,Existing
+131,"Land of Toys Inc.",2004-09-08,2003-02-24,Existing
+131,"Land of Toys Inc.",2004-11-15,2003-02-24,Existing
+141,"Euro+ Shopping Channel",2003-01-31,2003-01-31,New
+141,"Euro+ Shopping Channel",2003-06-06,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-06-27,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-09-28,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-10-08,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-11-19,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-12-02,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2003-12-03,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-01-16,2003-01-31,New
+141,"Euro+ Shopping Channel",2004-04-29,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-05-05,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-06-24,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-08-09,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-10-16,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-12-02,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-12-07,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2004-12-10,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-02-10,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-02-10,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-02-16,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-02-22,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-03-01,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-03-15,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-05-03,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-05-13,2003-01-31,Existing
+141,"Euro+ Shopping Channel",2005-05-31,2003-01-31,Existing
+144,"Volvo Model Replicas, Co",2003-03-24,2003-03-24,New
+144,"Volvo Model Replicas, Co",2004-11-03,2003-03-24,Existing
+144,"Volvo Model Replicas, Co",2004-11-09,2003-03-24,Existing
+144,"Volvo Model Replicas, Co",2004-11-19,2003-03-24,Existing
+145,"Danish Wholesale Imports",2003-02-11,2003-02-11,New
+145,"Danish Wholesale Imports",2004-04-09,2003-02-11,Existing
+145,"Danish Wholesale Imports",2004-06-08,2003-02-11,Existing
+145,"Danish Wholesale Imports",2004-11-10,2003-02-11,Existing
+145,"Danish Wholesale Imports",2005-04-15,2003-02-11,Existing
+146,"Saveley & Henriot, Co.",2003-11-25,2003-11-25,New
+146,"Saveley & Henriot, Co.",2004-01-02,2003-11-25,Existing
+146,"Saveley & Henriot, Co.",2004-03-02,2003-11-25,Existing
+148,"Dragon Souveniers, Ltd.",2003-04-16,2003-04-16,New
+148,"Dragon Souveniers, Ltd.",2003-09-19,2003-04-16,Existing
+148,"Dragon Souveniers, Ltd.",2003-10-22,2003-04-16,Existing
+148,"Dragon Souveniers, Ltd.",2004-08-04,2003-04-16,Existing
+148,"Dragon Souveniers, Ltd.",2005-03-02,2003-04-16,Existing
+151,"Muscle Machine Inc",2003-06-03,2003-06-03,New
+151,"Muscle Machine Inc",2003-12-02,2003-06-03,Existing
+151,"Muscle Machine Inc",2004-07-07,2003-06-03,Existing
+151,"Muscle Machine Inc",2004-12-01,2003-06-03,Existing
+157,"Diecast Classics Inc.",2004-07-20,2004-07-20,New
+157,"Diecast Classics Inc.",2004-08-19,2004-07-20,Existing
+157,"Diecast Classics Inc.",2004-11-02,2004-07-20,Existing
+157,"Diecast Classics Inc.",2005-05-30,2004-07-20,Existing
+161,"Technics Stores Inc.",2003-07-24,2003-07-24,New
+161,"Technics Stores Inc.",2003-10-28,2003-07-24,Existing
+161,"Technics Stores Inc.",2004-11-02,2003-07-24,Existing
+161,"Technics Stores Inc.",2005-01-05,2003-07-24,Existing
+166,"Handji Gifts& Co",2004-02-04,2004-02-04,New
+166,"Handji Gifts& Co",2004-06-15,2004-02-04,Existing
+166,"Handji Gifts& Co",2004-09-01,2004-02-04,Existing
+166,"Handji Gifts& Co",2005-04-23,2004-02-04,Existing
+167,"Herkku Gifts",2003-11-12,2003-11-12,New
+167,"Herkku Gifts",2003-11-18,2003-11-12,New
+167,"Herkku Gifts",2004-09-03,2003-11-12,Existing
+171,"Daedalus Designs Imports",2003-11-11,2003-11-11,New
+171,"Daedalus Designs Imports",2004-02-21,2003-11-11,Existing
+172,"La Corne D'abondance, Co.",2003-04-01,2003-04-01,New
+172,"La Corne D'abondance, Co.",2004-08-28,2003-04-01,Existing
+172,"La Corne D'abondance, Co.",2004-11-20,2003-04-01,Existing
+173,"Cambridge Collectables Co.",2004-03-10,2004-03-10,New
+173,"Cambridge Collectables Co.",2004-05-08,2004-03-10,Existing
+175,"Gift Depot Inc.",2003-11-05,2003-11-05,New
+175,"Gift Depot Inc.",2004-06-28,2003-11-05,Existing
+175,"Gift Depot Inc.",2005-05-05,2003-11-05,Existing
+177,"Osaka Souveniers Co.",2004-01-12,2004-01-12,New
+177,"Osaka Souveniers Co.",2004-04-13,2004-01-12,Existing
+181,"Vitachrome Inc.",2003-01-10,2003-01-10,New
+181,"Vitachrome Inc.",2004-04-05,2003-01-10,Existing
+181,"Vitachrome Inc.",2004-11-05,2003-01-10,Existing
+186,"Toys of Finland, Co.",2003-10-06,2003-10-06,New
+186,"Toys of Finland, Co.",2004-09-30,2003-10-06,Existing
+186,"Toys of Finland, Co.",2005-02-09,2003-10-06,Existing
+187,"AV Stores, Co.",2003-03-18,2003-03-18,New
+187,"AV Stores, Co.",2004-10-14,2003-03-18,Existing
+187,"AV Stores, Co.",2004-11-17,2003-03-18,Existing
+189,"Clover Collections, Co.",2004-02-12,2004-02-12,New
+189,"Clover Collections, Co.",2004-09-16,2004-02-12,Existing
+198,"Auto-Moto Classics Inc.",2003-06-16,2003-06-16,New
+198,"Auto-Moto Classics Inc.",2004-09-07,2003-06-16,Existing
+198,"Auto-Moto Classics Inc.",2004-12-03,2003-06-16,Existing
+201,"UK Collectables, Ltd.",2004-06-01,2003-10-06,Existing
+201,"UK Collectables, Ltd.",2003-10-06,2003-10-06,New
+201,"UK Collectables, Ltd.",2005-04-08,2003-10-06,Existing
+202,"Canadian Gift Exchange Network",2003-12-05,2003-12-05,New
+202,"Canadian Gift Exchange Network",2004-10-22,2003-12-05,Existing
+204,"Online Mini Collectables",2004-08-02,2004-08-02,New
+204,"Online Mini Collectables",2004-09-10,2004-08-02,Existing
+205,Toys4GrownUps.com,2003-08-25,2003-08-25,New
+205,Toys4GrownUps.com,2003-11-18,2003-08-25,Existing
+205,Toys4GrownUps.com,2005-01-12,2003-08-25,Existing
+209,"Mini Caravy",2004-04-13,2004-04-13,New
+209,"Mini Caravy",2004-06-04,2004-04-13,Existing
+209,"Mini Caravy",2005-04-14,2004-04-13,New
+211,"King Kong Collectables, Co.",2003-11-15,2003-11-15,New
+211,"King Kong Collectables, Co.",2003-12-01,2003-11-15,Existing
+216,"Enaco Distributors",2003-04-21,2003-04-21,New
+216,"Enaco Distributors",2003-11-26,2003-04-21,Existing
+216,"Enaco Distributors",2004-11-24,2003-04-21,Existing
+219,"Boards & Toys Co.",2003-10-02,2003-10-02,New
+219,"Boards & Toys Co.",2005-02-08,2003-10-02,Existing
+227,"Heintze Collectables",2003-10-17,2003-10-17,New
+227,"Heintze Collectables",2004-10-22,2003-10-17,New
+233,"Québec Home Shopping Network",2003-11-05,2003-11-05,New
+233,"Québec Home Shopping Network",2004-06-17,2003-11-05,Existing
+233,"Québec Home Shopping Network",2005-05-01,2003-11-05,Existing
+239,"Collectable Mini Designs Co.",2004-02-19,2004-02-19,New
+239,"Collectable Mini Designs Co.",2004-02-26,2004-02-19,New
+240,giftsbymail.co.uk,2004-03-20,2004-03-20,New
+240,giftsbymail.co.uk,2004-11-01,2004-03-20,Existing
+242,"Alpha Cognac",2003-07-04,2003-07-04,New
+242,"Alpha Cognac",2003-11-08,2003-07-04,Existing
+242,"Alpha Cognac",2005-03-28,2003-07-04,Existing
+249,"Amica Models & Co.",2004-08-17,2004-08-17,New
+249,"Amica Models & Co.",2004-09-09,2004-08-17,Existing
+250,"Lyon Souveniers",2003-07-01,2003-07-01,New
+250,"Lyon Souveniers",2004-12-09,2003-07-01,Existing
+250,"Lyon Souveniers",2005-03-17,2003-07-01,Existing
+256,"Auto Associés & Cie.",2004-02-02,2004-02-02,New
+256,"Auto Associés & Cie.",2004-10-11,2004-02-02,Existing
+259,"Toms Spezialitäten, Ltd",2003-11-20,2003-11-20,New
+259,"Toms Spezialitäten, Ltd",2004-10-16,2003-11-20,Existing
+260,"Royal Canadian Collectables, Ltd.",2004-04-02,2004-04-02,New
+260,"Royal Canadian Collectables, Ltd.",2004-08-20,2004-04-02,Existing
+276,"Anna's Decorations, Ltd",2003-09-11,2003-09-11,New
+276,"Anna's Decorations, Ltd",2003-11-04,2003-09-11,Existing
+276,"Anna's Decorations, Ltd",2005-01-20,2003-09-11,Existing
+276,"Anna's Decorations, Ltd",2005-03-09,2003-09-11,Existing
+278,"Rovelli Gifts",2003-02-17,2003-02-17,New
+278,"Rovelli Gifts",2003-11-05,2003-02-17,Existing
+278,"Rovelli Gifts",2004-11-12,2003-02-17,Existing
+282,"Souveniers And Things Co.",2003-07-16,2003-07-16,New
+282,"Souveniers And Things Co.",2004-07-19,2003-07-16,New
+282,"Souveniers And Things Co.",2004-12-17,2003-07-16,Existing
+282,"Souveniers And Things Co.",2005-05-29,2003-07-16,Existing
+286,"Marta's Replicas Co.",2004-08-27,2004-08-27,New
+286,"Marta's Replicas Co.",2004-10-13,2004-08-27,Existing
+298,"Vida Sport, Ltd",2004-02-22,2004-02-22,New
+298,"Vida Sport, Ltd",2004-08-30,2004-02-22,Existing
+299,"Norway Gifts By Mail, Co.",2004-08-21,2003-10-05,Existing
+299,"Norway Gifts By Mail, Co.",2003-10-05,2003-10-05,New
+311,"Oulu Toy Supplies, Inc.",2003-09-21,2003-09-21,New
+311,"Oulu Toy Supplies, Inc.",2004-04-12,2003-09-21,Existing
+311,"Oulu Toy Supplies, Inc.",2005-01-31,2003-09-21,Existing
+314,"Petit Auto",2004-02-18,2004-02-18,New
+314,"Petit Auto",2004-07-21,2004-02-18,Existing
+314,"Petit Auto",2005-05-30,2004-02-18,Existing
+319,"Mini Classics",2003-11-25,2003-11-25,New
+319,"Mini Classics",2004-10-15,2003-11-25,Existing
+320,"Mini Creations Ltd.",2003-08-10,2003-08-10,New
+320,"Mini Creations Ltd.",2003-11-14,2003-08-10,Existing
+320,"Mini Creations Ltd.",2005-01-07,2003-08-10,Existing
+321,"Corporate Gift Ideas Co.",2003-10-10,2003-10-10,New
+321,"Corporate Gift Ideas Co.",2003-10-18,2003-10-10,New
+321,"Corporate Gift Ideas Co.",2005-02-17,2003-10-10,Existing
+321,"Corporate Gift Ideas Co.",2005-02-23,2003-10-10,Existing
+323,"Down Under Souveniers, Inc",2003-06-25,2003-06-25,New
+323,"Down Under Souveniers, Inc",2004-06-03,2003-06-25,New
+323,"Down Under Souveniers, Inc",2004-12-04,2003-06-25,Existing
+323,"Down Under Souveniers, Inc",2005-03-11,2003-06-25,Existing
+323,"Down Under Souveniers, Inc",2005-04-08,2003-06-25,Existing
+324,"Stylish Desk Decors, Co.",2003-06-12,2003-06-12,New
+324,"Stylish Desk Decors, Co.",2003-11-06,2003-06-12,Existing
+324,"Stylish Desk Decors, Co.",2004-12-03,2003-06-12,Existing
+328,"Tekni Collectables Inc.",2004-03-29,2004-03-29,New
+328,"Tekni Collectables Inc.",2004-05-18,2004-03-29,Existing
+328,"Tekni Collectables Inc.",2005-04-03,2004-03-29,Existing
+333,"Australian Gift Network, Co",2003-09-25,2003-09-25,New
+333,"Australian Gift Network, Co",2003-11-06,2003-09-25,Existing
+333,"Australian Gift Network, Co",2005-02-02,2003-09-25,Existing
+334,"Suominen Souveniers",2003-08-01,2003-08-01,New
+334,"Suominen Souveniers",2004-05-05,2003-08-01,Existing
+334,"Suominen Souveniers",2005-01-06,2003-08-01,Existing
+339,"Classic Gift Ideas, Inc",2003-11-13,2003-11-13,New
+339,"Classic Gift Ideas, Inc",2004-10-14,2003-11-13,Existing
+344,"CAF Imports",2003-11-07,2003-11-07,New
+344,"CAF Imports",2004-03-19,2003-11-07,Existing
+347,"Men 'R' US Retailers, Ltd.",2003-10-11,2003-10-11,New
+347,"Men 'R' US Retailers, Ltd.",2004-01-09,2003-10-11,Existing
+350,"Marseille Mini Autos",2003-05-08,2003-05-08,New
+350,"Marseille Mini Autos",2004-11-25,2003-05-08,Existing
+350,"Marseille Mini Autos",2005-01-06,2003-05-08,Existing
+353,"Reims Collectables",2003-05-07,2003-05-07,New
+353,"Reims Collectables",2003-07-10,2003-05-07,Existing
+353,"Reims Collectables",2004-11-24,2003-05-07,Existing
+353,"Reims Collectables",2004-12-15,2003-05-07,Existing
+353,"Reims Collectables",2005-03-30,2003-05-07,Existing
+357,GiftsForHim.com,2003-12-02,2003-12-02,New
+357,GiftsForHim.com,2004-06-16,2003-12-02,Existing
+357,GiftsForHim.com,2005-04-29,2003-12-02,Existing
+362,Gifts4AllAges.com,2004-06-30,2004-06-30,New
+362,Gifts4AllAges.com,2004-09-10,2004-06-30,Existing
+362,Gifts4AllAges.com,2005-05-06,2004-06-30,Existing
+363,"Online Diecast Creations Co.",2003-01-06,2003-01-06,New
+363,"Online Diecast Creations Co.",2003-11-20,2003-01-06,Existing
+363,"Online Diecast Creations Co.",2004-11-04,2003-01-06,Existing
+379,"Collectables For Less Inc.",2003-09-05,2003-09-05,New
+379,"Collectables For Less Inc.",2004-07-21,2003-09-05,Existing
+379,"Collectables For Less Inc.",2005-01-20,2003-09-05,Existing
+381,"Royale Belge",2003-04-11,2003-04-11,New
+381,"Royale Belge",2003-08-13,2003-04-11,Existing
+381,"Royale Belge",2004-11-22,2003-04-11,Existing
+381,"Royale Belge",2005-01-10,2003-04-11,Existing
+382,"Salzburg Collectables",2003-04-28,2003-04-28,New
+382,"Salzburg Collectables",2004-07-16,2003-04-28,Existing
+382,"Salzburg Collectables",2004-11-24,2003-04-28,Existing
+382,"Salzburg Collectables",2005-05-17,2003-04-28,Existing
+385,"Cruz & Sons Co.",2003-03-03,2003-03-03,New
+385,"Cruz & Sons Co.",2003-11-27,2003-03-03,Existing
+385,"Cruz & Sons Co.",2004-11-16,2003-03-03,Existing
+386,"L'ordine Souveniers",2003-11-06,2003-11-06,New
+386,"L'ordine Souveniers",2004-07-06,2003-11-06,Existing
+386,"L'ordine Souveniers",2005-05-10,2003-11-06,Existing
+398,"Tokyo Collectables, Ltd",2004-06-15,2004-06-15,New
+398,"Tokyo Collectables, Ltd",2004-11-23,2004-06-15,Existing
+398,"Tokyo Collectables, Ltd",2005-01-26,2004-06-15,Existing
+398,"Tokyo Collectables, Ltd",2005-04-22,2004-06-15,Existing
+406,"Auto Canal+ Petit",2004-01-15,2004-01-15,New
+406,"Auto Canal+ Petit",2004-05-26,2004-01-15,Existing
+406,"Auto Canal+ Petit",2005-04-07,2004-01-15,Existing
+412,"Extreme Desk Decorations, Ltd",2004-03-30,2004-03-30,New
+412,"Extreme Desk Decorations, Ltd",2004-07-12,2004-03-30,Existing
+412,"Extreme Desk Decorations, Ltd",2005-05-16,2004-03-30,Existing
+415,"Bavarian Collectables Imports, Co.",2004-09-15,2004-09-15,New
+424,"Classic Legends Inc.",2003-04-04,2003-04-04,New
+424,"Classic Legends Inc.",2003-10-20,2003-04-04,Existing
+424,"Classic Legends Inc.",2004-11-21,2003-04-04,Existing
+447,"Gift Ideas Corp.",2003-06-16,2003-06-16,New
+447,"Gift Ideas Corp.",2003-09-03,2003-06-16,Existing
+447,"Gift Ideas Corp.",2004-12-04,2003-06-16,Existing
+448,"Scandinavian Gift Ideas",2003-10-23,2003-10-23,New
+448,"Scandinavian Gift Ideas",2004-09-08,2003-10-23,Existing
+448,"Scandinavian Gift Ideas",2005-03-03,2003-10-23,Existing
+450,"The Sharp Gifts Warehouse",2004-05-11,2004-05-11,New
+450,"The Sharp Gifts Warehouse",2004-06-14,2004-05-11,Existing
+450,"The Sharp Gifts Warehouse",2005-04-01,2004-05-11,Existing
+450,"The Sharp Gifts Warehouse",2005-04-22,2004-05-11,Existing
+452,"Mini Auto Werke",2003-10-21,2003-10-21,New
+452,"Mini Auto Werke",2003-11-04,2003-10-21,Existing
+452,"Mini Auto Werke",2005-03-10,2003-10-21,Existing
+455,"Super Scale Inc.",2003-11-26,2003-11-26,New
+455,"Super Scale Inc.",2004-05-04,2003-11-26,Existing
+456,"Microscale Inc.",2004-04-20,2004-04-20,New
+456,"Microscale Inc.",2004-11-03,2004-04-20,Existing
+458,"Corrida Auto Replicas, Ltd",2003-05-28,2003-05-28,New
+458,"Corrida Auto Replicas, Ltd",2004-01-26,2003-05-28,Existing
+458,"Corrida Auto Replicas, Ltd",2004-11-01,2003-05-28,Existing
+462,FunGiftIdeas.com,2003-10-21,2003-10-21,New
+462,FunGiftIdeas.com,2004-11-04,2003-10-21,Existing
+462,FunGiftIdeas.com,2005-03-03,2003-10-21,Existing
+471,"Australian Collectables, Ltd",2003-11-21,2003-11-21,New
+471,"Australian Collectables, Ltd",2004-07-02,2003-11-21,Existing
+471,"Australian Collectables, Ltd",2005-05-09,2003-11-21,Existing
+473,"Frau da Collezione",2003-10-09,2003-10-09,New
+473,"Frau da Collezione",2004-02-09,2003-10-09,Existing
+475,"West Coast Collectables Co.",2003-12-01,2003-12-01,New
+475,"West Coast Collectables Co.",2004-01-29,2003-12-01,Existing
+484,"Iberia Gift Imports, Corp.",2003-11-14,2003-11-14,New
+484,"Iberia Gift Imports, Corp.",2004-10-06,2003-11-14,Existing
+486,"Motor Mint Distributors Inc.",2003-03-10,2003-03-10,New
+486,"Motor Mint Distributors Inc.",2004-04-03,2003-03-10,Existing
+486,"Motor Mint Distributors Inc.",2004-11-17,2003-03-10,Existing
+487,"Signal Collectibles Ltd.",2003-09-12,2003-09-12,New
+487,"Signal Collectibles Ltd.",2004-02-10,2003-09-12,Existing
+489,"Double Decker Gift Stores, Ltd",2003-11-14,2003-11-14,New
+489,"Double Decker Gift Stores, Ltd",2004-01-22,2003-11-14,Existing
+495,"Diecast Collectables",2003-12-09,2003-12-09,New
+495,"Diecast Collectables",2004-04-26,2003-12-09,Existing
+496,"Kelly's Gift Shop",2003-07-07,2003-07-07,New
+496,"Kelly's Gift Shop",2003-11-11,2003-07-07,Existing
+496,"Kelly's Gift Shop",2004-12-16,2003-07-07,Existing
+496,"Kelly's Gift Shop",2005-04-01,2003-07-07,Existing
