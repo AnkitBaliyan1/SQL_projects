@@ -2,6 +2,8 @@
 
 ---
 
+![Pizza-Sales-Report](output/pizza_sales_report_dashboard.jpeg)
+
 #### Project Overview
 The Pizza Sales SQL Project is a comprehensive analytical tool designed to provide in-depth insights into pizza sales performance. By integrating an interactive dashboard with a series of SQL queries, this project aims to deliver real-time data and visualizations to aid in business decision-making.
 
